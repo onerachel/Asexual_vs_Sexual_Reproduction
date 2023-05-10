@@ -5,9 +5,9 @@ In the most extensive robot evolution systems, both the bodies and the brains of
 ## Installation 
 Steps to install:
 ``` 
-1. git clone https://github.com/ci-group/revolve2 --branch v0.3.6-beta1
-2. git clone https://github.com/onerachel/Asexual_vs_Sexual_Reproduction.git
-3. cd Asexual_vs_Sexual_Reproduction
+1. git clone https://github.com/onerachel/Asexual_vs_Sexual_Reproduction.git
+2. cd Asexual_vs_Sexual_Reproduction
+3. git clone https://github.com/ci-group/revolve2 --branch v0.3.6-beta1
 4. virtualenv -p=python3.8 .venv
 5. source .venv/bin/activate
 6. ./dev_requirements.sh  (comment out this line since we don't need to use isaacgym simulator # pip install -e ./runners/isaacgym[dev] && \)
