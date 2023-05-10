@@ -5,7 +5,7 @@ In the most extensive robot evolution systems, both the bodies and the brains of
 ## Installation 
 Steps to install:
 ``` 
-1. clone https://github.com/ci-group/revolve2/releases/tag/v0.3.6-beta1
+1. git clone https://github.com/ci-group/revolve2 --branch v0.3.6-beta1
 2. git clone https://github.com/onerachel/Asexual_vs_Sexual_Reproduction.git
 3. cd Asexual_vs_Sexual_Reproduction
 4. virtualenv -p=python3.8 .venv
